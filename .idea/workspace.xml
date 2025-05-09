@@ -9,7 +9,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0a58155-c56d-48fb-9145-41c47beec7e2" name="Changes" comment="" />
+    <list default="true" id="d0a58155-c56d-48fb-9145-41c47beec7e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/DAO/BookDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DAO/BookDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/all_recent_book.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/all_recent_book.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view_books.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view_books.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/DAO/BookDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/DAO/BookDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/DAO/BookOrderImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/DAO/BookOrderImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/DAO/CartDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/DAO/CartDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/DAO/UserDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/DAO/UserDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/DB/DBConnect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/DB/DBConnect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/admin/servlet/BookDeleteServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/admin/servlet/BookDeleteServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/admin/servlet/BooksAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/admin/servlet/BooksAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/admin/servlet/EditBooksServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/admin/servlet/EditBooksServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/BookDtls.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/entity/BookDtls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/Book_Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/entity/Book_Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/entity/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/eBook/JakartaRestConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/eBook/JakartaRestConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/eBook/resources/JakartaEE8Resource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/eBook/resources/JakartaEE8Resource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/user/servlet/AddOldBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/user/servlet/AddOldBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/user/servlet/CartServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/user/servlet/CartServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/user/servlet/DeleteOldBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/user/servlet/DeleteOldBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/user/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/user/servlet/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/user/servlet/LogoutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/user/servlet/LogoutServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/user/servlet/OrderServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/user/servlet/OrderServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/user/servlet/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/user/servlet/RegisterServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/user/servlet/RemoveBookCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/user/servlet/RemoveBookCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/user/servlet/UpdateProfileServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/user/servlet/UpdateProfileServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/DAO/BookDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/DAO/BookDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/DAO/BookOrderImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/DAO/BookOrderImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/DAO/CartDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/DAO/CartDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/DAO/UserDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/DAO/UserDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/DB/DBConnect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/DB/DBConnect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/admin/servlet/BookDeleteServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/admin/servlet/BookDeleteServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/admin/servlet/BooksAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/admin/servlet/BooksAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/admin/servlet/EditBooksServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/admin/servlet/EditBooksServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/entity/BookDtls.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/entity/BookDtls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/entity/Book_Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/entity/Book_Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/entity/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/entity/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/mycompany/eBook/JakartaRestConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/mycompany/eBook/JakartaRestConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/mycompany/eBook/resources/JakartaEE8Resource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/mycompany/eBook/resources/JakartaEE8Resource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/AddOldBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/AddOldBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/CartServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/CartServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/DeleteOldBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/DeleteOldBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/LogoutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/LogoutServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/OrderServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/OrderServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/RegisterServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/RemoveBookCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/RemoveBookCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/UpdateProfileServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/UpdateProfileServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/all_recent_book.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/all_recent_book.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/view_books.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/eBook-1.0-SNAPSHOT/view_books.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +77,9 @@
         <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -56,16 +114,18 @@
     "RunOnceActivity.DeprecatedChatLlmMigration": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.ToggleCodyToolWindowAfterMigration": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "Tomcat Server.Tomcat 9.0.104.executor": "Run",
     "Tomcat Server.index.jsp.executor": "Run",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/xettr/IdeaProjects/E-Book-Management-System-master/E-Book-Management-System/src/main/webapp/books",
+    "last_opened_file_path": "C:/Users/xettr/IdeaProjects/E-Book-Management-System/E-Book-Management-System",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -203,10 +263,24 @@
       <workItem from="1746482275869" duration="2180000" />
       <workItem from="1746500677123" duration="41000" />
       <workItem from="1746500741287" duration="505000" />
+      <workItem from="1746501854844" duration="4364000" />
+      <workItem from="1746766964496" duration="33000" />
+      <workItem from="1746767027715" duration="2627000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

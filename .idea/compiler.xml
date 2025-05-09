@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="eBook" options="-endorseddirs C:\Users\xettr\IdeaProjects\E-Book-Management-System-master\E-Book-Management-System\target/endorsed" />
+      <module name="eBook" options="-endorseddirs C:\Users\xettr\IdeaProjects\E-Book-Management-System\E-Book-Management-System\target/endorsed" />
     </option>
   </component>
 </project>

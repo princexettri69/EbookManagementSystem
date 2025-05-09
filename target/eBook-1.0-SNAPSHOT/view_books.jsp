@@ -19,6 +19,7 @@
             int bid = Integer.parseInt(request.getParameter("bid"));
             BookDAOImpl dao = new BookDAOImpl(DBConnect.getConn());
             BookDtls b = dao.getBookById(bid);
+            System.out.println("This is hello");
         %>
 
         <div class="container p-3">

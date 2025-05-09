@@ -38,6 +38,7 @@
                     <% BookDAOImpl dao2 = new BookDAOImpl(DBConnect.getConn());
                         List<BookDtls> list2 = dao2.getAllRecentBook();
                         for (BookDtls b : list2) {
+                            System.out.println(b.getBookId() + " " + b.getBookName());
                     %>
 
                     <div class="col-md-3">

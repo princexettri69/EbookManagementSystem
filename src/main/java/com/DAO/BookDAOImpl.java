@@ -152,10 +152,9 @@ public class BookDAOImpl implements BookDAO {
         List<BookDtls> list = new ArrayList<BookDtls>();
         BookDtls b = null;
         try {
-            String sql = "select * from book where bookCategory=? and status=? order by bookId DESC";
+            String sql = "select * from book where bookCategory=? order by bookId DESC";
             PreparedStatement ps = conn.prepareStatement(sql);
             ps.setString(1, "New");
-            ps.setString(2, "Active");
             ResultSet rs = ps.executeQuery();
             int i = 1;
             while (rs.next() && i <= 4) {
@@ -167,7 +166,6 @@ public class BookDAOImpl implements BookDAO {
                 b.setBookCategory(rs.getString(5));
                 b.setStatus(rs.getString(6));
                 b.setPhotoName(rs.getString(7));
-                b.setEmail(rs.getString(8));
                 list.add(b);
                 i++;
 
@@ -185,9 +183,8 @@ public class BookDAOImpl implements BookDAO {
         List<BookDtls> list = new ArrayList<BookDtls>();
         BookDtls b = null;
         try {
-            String sql = "select * from book where status=? order by bookId DESC";
+            String sql = "select * from book  order by bookId DESC";
             PreparedStatement ps = conn.prepareStatement(sql);
-            ps.setString(1, "Active");
 
             ResultSet rs = ps.executeQuery();
             int i = 1;
@@ -200,7 +197,7 @@ public class BookDAOImpl implements BookDAO {
                 b.setBookCategory(rs.getString(5));
                 b.setStatus(rs.getString(6));
                 b.setPhotoName(rs.getString(7));
-                b.setEmail(rs.getString(8));
+//                b.setEmail(rs.getString(8));
                 list.add(b);
                 i++;
 
@@ -218,10 +215,9 @@ public class BookDAOImpl implements BookDAO {
         List<BookDtls> list = new ArrayList<BookDtls>();
         BookDtls b = null;
         try {
-            String sql = "select * from book where bookCategory=? and status=? order by bookId DESC";
+            String sql = "select * from book where bookCategory=? order by bookId DESC";
             PreparedStatement ps = conn.prepareStatement(sql);
             ps.setString(1, "Old");
-            ps.setString(2, "Active");
             ResultSet rs = ps.executeQuery();
             int i = 1;
             while (rs.next() && i <= 4) {
@@ -233,7 +229,7 @@ public class BookDAOImpl implements BookDAO {
                 b.setBookCategory(rs.getString(5));
                 b.setStatus(rs.getString(6));
                 b.setPhotoName(rs.getString(7));
-                b.setEmail(rs.getString(8));
+//                b.setEmail(rs.getString(8));
                 list.add(b);
                 i++;
 
@@ -250,9 +246,8 @@ public class BookDAOImpl implements BookDAO {
         List<BookDtls> list = new ArrayList<BookDtls>();
         BookDtls b = null;
         try {
-            String sql = "select * from book where status=? order by bookId DESC";
+            String sql = "select * from book order by bookId DESC";
             PreparedStatement ps = conn.prepareStatement(sql);
-            ps.setString(1, "Active");
 
             ResultSet rs = ps.executeQuery();
 
@@ -265,7 +260,7 @@ public class BookDAOImpl implements BookDAO {
                 b.setBookCategory(rs.getString(5));
                 b.setStatus(rs.getString(6));
                 b.setPhotoName(rs.getString(7));
-                b.setEmail(rs.getString(8));
+//                b.setEmail(rs.getString(8));
                 list.add(b);
 
             }
@@ -281,10 +276,10 @@ public class BookDAOImpl implements BookDAO {
         List<BookDtls> list = new ArrayList<BookDtls>();
         BookDtls b = null;
         try {
-            String sql = "select * from book where bookCategory=? and status=? order by bookId DESC";
+            String sql = "select * from book where bookCategory=? order by bookId DESC";
             PreparedStatement ps = conn.prepareStatement(sql);
             ps.setString(1, "New");
-            ps.setString(2, "Active");
+//            ps.setString(2, "Active");
             ResultSet rs = ps.executeQuery();
 
             while (rs.next()) {
@@ -296,7 +291,7 @@ public class BookDAOImpl implements BookDAO {
                 b.setBookCategory(rs.getString(5));
                 b.setStatus(rs.getString(6));
                 b.setPhotoName(rs.getString(7));
-                b.setEmail(rs.getString(8));
+//                b.setEmail(rs.getString(8));
                 list.add(b);
 
             }
@@ -312,10 +307,10 @@ public class BookDAOImpl implements BookDAO {
         List<BookDtls> list = new ArrayList<BookDtls>();
         BookDtls b = null;
         try {
-            String sql = "select * from book where bookCategory=? and status=? order by bookId DESC";
+            String sql = "select * from book where bookCategory=? order by bookId DESC";
             PreparedStatement ps = conn.prepareStatement(sql);
             ps.setString(1, "Old");
-            ps.setString(2, "Active");
+//            ps.setString(2, "Active");
             ResultSet rs = ps.executeQuery();
 
             while (rs.next()) {
@@ -327,7 +322,7 @@ public class BookDAOImpl implements BookDAO {
                 b.setBookCategory(rs.getString(5));
                 b.setStatus(rs.getString(6));
                 b.setPhotoName(rs.getString(7));
-                b.setEmail(rs.getString(8));
+//                b.setEmail(rs.getString(8));
                 list.add(b);
 
             }
@@ -361,7 +356,7 @@ public class BookDAOImpl implements BookDAO {
                 b.setBookCategory(rs.getString(5));
                 b.setStatus(rs.getString(6));
                 b.setPhotoName(rs.getString(7));
-                b.setEmail(rs.getString(8));
+//                b.setEmail(rs.getString(8));
                 list.add(b);
             }
 
